@@ -1,4 +1,4 @@
-5a> select A.TicketNo,B.Name from Ticket as A inner join Passenger as B on A.TicketNo=b.TicketNo;
+5a> select TicketNo , Name from Passenger;
 
 +----------+---------+
 | TicketNo | Name    |
